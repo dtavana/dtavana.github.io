@@ -1,7 +1,7 @@
 {
   "name": "dtavana.github.io",
   "private": true,
-  "version": "0.0.0",
+  "homepage": "dtavana.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
